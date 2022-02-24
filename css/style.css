@@ -2,3 +2,7 @@
   background-color: azure;
   font-style: italic;
 }
+.bolded {
+  font-weight: bolder;
+  font-size: 25px;
+}
